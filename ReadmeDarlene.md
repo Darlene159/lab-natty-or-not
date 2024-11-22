@@ -1,19 +1,22 @@
-# Título do Projeto Meu primeiro e-book ;)
+# Título do Projeto Meu primeiro avatar ;)
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora as IAs Generativas para a geração deste e-book de Poesias da minha autoria.
+Este vídeo comm meu avatar foi feito as IAs Generativas para verificar como fica a Poesias a partir do avatar.
 
 ## 🤖 Tecnologias Utilizadas
 
-IA Generativa ChatGPT para roteirização;
-IA Generativa Leonardo AI para criar a arte visual do e-book;
-Ferramenta Libre Office para edição.
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+Site do Media.io conversor de video
+
 
 ## 🧐 Processo de Criação
-Fiz uso do "ChatGPT" para saber como criar um e-book usando o GitHub. Já o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Finalizei no Libre Office, por ser uma ferramenta open-source para edição de texto.
-
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A edição para mp4 usei o Medio.io onn line
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+[Com  voce.webm](https://github.com/user-attachments/assets/579bcc77-23d2-4700-97ae-5cb51705b4a8)
+
+os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi um grande desafio fazer este trabalho..mas adorei. Aprender nunca é demais
